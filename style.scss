@@ -1,0 +1,47 @@
+body {
+  background: url("https://upload.wikimedia.org/wikipedia/commons/c/c8/M_Faraday_Lab_H_Moore.jpg") no-repeat center center fixed;
+  background-size: cover;
+}
+
+h1, h3 {
+  text-align: center;
+  font-weight: bold;
+  font-family: 'Dancing Script', cursive;
+  font-size: 3em;
+}
+
+.jumbotron {
+  background-color: rgba(255,228,196,.7)
+}
+
+img {
+  border-radius: 75px;
+  margin: auto;
+  -webkit-box-shadow: 11px 11px 41px 2px rgba(0,0,0,0.74);
+  -moz-box-shadow: 11px 11px 41px 2px rgba(0,0,0,0.74);
+  box-shadow: 11px 11px 41px 2px rgba(0,0,0,0.74) 
+}
+
+ul{
+  display: inline-block;
+  font-weight: bold;
+  font-family: Arial;
+}
+
+li{
+  font-family: Garamond;
+  font-size: 1.25em;
+  display: inline;
+  padding: 0 30%; 
+}
+
+.col-md-12 {
+  font-family: Garamond;
+  padding-bottom: 50px;
+}
+
+.col-xs-12 {
+  text-align: center;
+  font-family: Garamond;
+  margin: auto;
+}
